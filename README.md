@@ -1,4 +1,4 @@
-# Mohideen Ansar A Aerospace Engineer Portfolio
+# Aerospace Engineer Portfolio
 ![Alt text for photo](/assets/1695480883539.jpeg)
 
 ![Banner Image](https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Aerospace+Engineer+Portfolio)
@@ -18,8 +18,6 @@ Aerospace engineer with 8-9 years in computational fluid dynamics, aerodynamic o
 ## 🚀 Projects
 ### Transonic UAV Wing Optimization
 Adjoint-based drag reduction for M.Tech thesis using SU2/ADE. Improved cruise efficiency by 15%.[memory:5]
-
-
 
 ### 150kg Tactical UAV (Raymer Design)
 Conceptual design: 500km range, electric prop, constraint analysis Python tool.[memory:13]
