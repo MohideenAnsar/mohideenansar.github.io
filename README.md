@@ -6,9 +6,9 @@
 Aerospace engineer with 8-9 years in computational fluid dynamics, aerodynamic optimization, and UAV conceptual design using Raymer methods. Expertise in SU2 adjoint optimization, hypersonic intakes, and propulsion analysis. Targeting roles at Edge Group, TII, ADASI.[memory:5][memory:8]
 
 ## 👨‍💻 About
-- **Location**: Ras Al Khaimah, UAE
+- **Location**: Ajman Emirate, UAE
 - **Focus**: CFD (SU2, OpenFOAM), Shape Optimization (OpenMDAO), Aircraft Sizing (Raymer), UAVs
-- **Experience**: IISc Project Scientist, Pricol Technologies, SID
+- **Experience**: SID, IISc Project Scientist - Project Engineer, SandI & Engineer, Pricol Technologies, SID
 - **Passions**: Building fixed-wing UAVs, technical writing, Raymer design series on LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
