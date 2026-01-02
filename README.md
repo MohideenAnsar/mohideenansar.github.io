@@ -1,4 +1,5 @@
-# Aerospace Engineer Portfolio
+# Mohideen Ansar A Aerospace Engineer Portfolio
+![Alt text for photo](/assets/1695480883539.jpeg)
 
 ![Banner Image](https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Aerospace+Engineer+Portfolio)
 **CFD & UAV Design Specialist | UAE-based | Open to Opportunities**
