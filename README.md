@@ -1,10 +1,9 @@
 # Aerospace Engineer Portfolio
 ![Alt text for photo](/assets/1695480883539.jpeg)
 
-![Banner Image](https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Aerospace+Engineer+Portfolio)
 **CFD & UAV Design Specialist | UAE-based | Open to Opportunities**
 
-Aerospace engineer with 8-9 years in computational fluid dynamics, aerodynamic optimization, and UAV conceptual design using Raymer methods. Expertise in SU2 adjoint optimization, hypersonic intakes, and propulsion analysis. Targeting roles at Edge Group, TII, ADASI.[memory:5][memory:8]
+Aerospace engineer with over nine years in computational fluid dynamics, aerodynamic optimization, and UAV conceptual design using Raymer methods. Expertise in SU2 adjoint optimization, hypersonic intakes, and propulsion analysis.[memory:5][memory:8]
 
 ## 👨‍💻 About
 - **Location**: Ajman Emirate, UAE
