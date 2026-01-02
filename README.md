@@ -9,27 +9,16 @@ Aerospace engineer with 8-9 years in computational fluid dynamics, aerodynamic o
 - **Location**: Ajman Emirate, UAE
 - **Focus**: CFD (SU2, OpenFOAM), Shape Optimization (OpenMDAO), Aircraft Sizing (Raymer), UAVs
 - **Experience**: SID, IISc Project Scientist - Project Engineer, SandI & Engineer, Pricol Technologies, SID
-- **Passions**: Building fixed-wing UAVs, technical writing, Raymer design series on LinkedIn
+- **Passions**: Building fixed-wing UAVs, Shape Optimization of Aircrfat, technical writing and UAV.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohideen-ansar-aero)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:mohideenansara@gmail.com)
 
 ## 🚀 Projects
 ### Transonic UAV Wing Optimization
 Adjoint-based drag reduction for M.Tech thesis using SU2/ADE. Improved cruise efficiency by 15%.[memory:5]
 
-[![Demo](https://via.placeholder.com/800x400?text=UAV+Wing+CL+vs+Alpha)](link-to-image-or-repo)
-- **Tech**: Python, SU2, Matplotlib
-- [Code](https://github.com/yourusername/uav-optimization) | [Report](pdf-link.pdf)
+
 
 ### 150kg Tactical UAV (Raymer Design)
 Conceptual design: 500km range, electric prop, constraint analysis Python tool.[memory:13]
-
-```python
-# Weight buildup example
-import numpy as np
-W_payload = 30  # kg
-W_empty_frac = 0.25
-W_fuel_frac = 0.4
-W0 = W_payload / (1 - W_empty_frac - W_fuel_frac)
-print(f'MTOW: {W0:.1f} kg')
