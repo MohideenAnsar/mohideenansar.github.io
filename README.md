@@ -3,7 +3,7 @@
 
 **CFD & UAV Design Specialist | UAE-based | Open to Opportunities**
 
-Aerospace engineer with over nine years in computational fluid dynamics, aerodynamic optimization, and UAV conceptual design using Raymer methods. Expertise in SU2 adjoint optimization, hypersonic intakes, and propulsion analysis.[memory:5][memory:8]
+Aerospace engineer with over nine years in computational fluid dynamics, aerodynamic optimization, and UAV conceptual design using Raymer methods. Expertise in SU2 adjoint optimization, hypersonic intakes, and propulsion analysis.
 
 ## 👨‍💻 About
 - **Location**: Ajman Emirate, UAE
@@ -16,8 +16,8 @@ Aerospace engineer with over nine years in computational fluid dynamics, aerodyn
 
 ## 🚀 Projects
 ### Transonic UAV Wing Optimization
-Adjoint-based drag reduction for M.Tech thesis using SU2/ADE. Improved cruise efficiency by 15%.[memory:5]
+Adjoint-based drag reduction for M.Tech thesis using SU2/ADE. Improved cruise efficiency by 15%.
 
 ### Present Work  
 ### 150kg Tactical UAV (Raymer Design)
-Conceptual design: Payload 30 kg, 500 km range, 30 min loiter, Pneumatically-launched take off, 10000 meters, parachute landing, jet prop, 0.7 mach cruise, constraint analysis Python tool.[memory:13]
+Conceptual design: Payload 30 kg, 500 km range, 30 min loiter, Pneumatically-launched take off, 10000 meters, parachute landing, jet prop, 0.7 mach cruise, constraint analysis Python tool.
