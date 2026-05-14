@@ -16,5 +16,4 @@ Curious person, open to learn.
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:mohideenansara@gmail.com)
 
 ## 🚀 Projects
-<a href="Aircraft.md">Aircraft</a> |
-<a href="Engine.md">Engine</a>
+**<a href="Aircraft.md">Aircraft</a> | <a href="Engine.md">Engine</a>**
