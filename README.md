@@ -12,7 +12,7 @@ Curious person, open to learn.
     Unmanned Aerial Vehicle
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="GT_Main" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+  <a href="GT_MAIN" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Gas Turbine
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
