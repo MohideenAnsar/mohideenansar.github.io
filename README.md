@@ -27,8 +27,8 @@ Curious person, open to learn.
 
 ## 👨‍💻 About
 - **Location**: Abu Dhabi, UAE
-- **Focus**: System Design, CAD, FES, CFD (SU2, OpenFOAM), MDAO, UAVs, Micro GT
-- **Experience**: SID, IISc Project Scientist | Project Engineer, SandI & Engineer | Engineer, V & V, Pricol Technologies, SID
+- **Focus**: System Design, CAD, FEA, CFD, MDAO, UAVs, Micro GT
+- **Experience**: Project Scientist, SID, IISc Project Scientist | Project Engineer, SandI & Engineer | Engineer, V & V, Pricol Technologies
 - **Passions**: Building systems especially UAVs and GT.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohideen-ansar-aero)
