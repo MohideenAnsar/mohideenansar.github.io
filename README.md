@@ -9,19 +9,19 @@ Curious person, open to learn.
 
 ## 🚀 Portfolio
 <div style="text-align:center; margin: 20px 0;">
-  <a href="UAV.md" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+  <a href="UAV.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Unmanned Aerial Vehicle
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="MGT.md" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+  <a href="MGT.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Micro Gas Turbine
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="SYSTEM.md" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+  <a href="SYSTEM.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     System Engineering (SE)
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="OTHER.md" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+  <a href="OTHER.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Engineering (E)
   </a>
 </div>
