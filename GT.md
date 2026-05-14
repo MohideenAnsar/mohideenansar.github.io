@@ -1,3 +1,8 @@
+---
+title: "Gas Turbnes"
+layout: default
+---
+
 # [Blog Post Title]
 
 ![Cover image or schematic](/assets/blog-cover-image.jpeg)
