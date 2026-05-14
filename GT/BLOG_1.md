@@ -1,9 +1,9 @@
 ---
-title: "Gas Turbines: Blog"
+title: "GT Blog 1: Preliminary Engine Sizing"
 layout: default
 ---
 
-# [Blog Post Title]
+# 
 
 ![Cover image or schematic](/assets/blog-cover-image.jpeg)
 
