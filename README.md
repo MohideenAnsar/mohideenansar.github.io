@@ -18,11 +18,11 @@ Curious person, open to learn.
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="SYSTEM.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    System Engineering (SE)
+    System Engineering
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="OTHER.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Engineering (E)
+    Engineering
   </a>
 </div>
 
