@@ -1,7 +1,7 @@
 # Engineer
 ![Alt text for photo](/assets/1695480883539.jpeg)
 
-**Aerospace Engineer with love for systems especially UAVs | UAE-based | Open to Opportunities**
+**Aerospace Engineer | UAE-based | Open to Opportunities**
 
 Aerospace engineer with over nine years in computational fluid dynamics, aerodynamic optimization, and UAV conceptual design using Raymer methods. Expertise in SU2 adjoint optimization, hypersonic intakes, and propulsion analysis.
 Curious person, open to learn.
