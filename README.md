@@ -10,11 +10,11 @@ Curious person, open to learn.
 ## 🚀 Portfolio
 <div style="text-align:center; margin: 20px 0;">
   <a href="UAV.md" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Unmanned Aerial Vehicles (UAV)
+    Unmanned Aerial Vehicle
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="MGT.md" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Micro Gas Turbine (MiGT)
+    Micro Gas Turbine
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="SYSTEM.md" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
@@ -22,7 +22,7 @@ Curious person, open to learn.
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="OTHER.md" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Engineering (SE)
+    Engineering (E)
   </a>
 </div>
 
