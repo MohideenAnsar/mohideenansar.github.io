@@ -7,17 +7,16 @@ layout: default
 
 ![Cover image or schematic](/assets/blog-cover-image.jpeg)
 
-**Short intro (2–3 sentences):**  
-[Briefly state the topic, why it matters, and what the reader will learn. Example:  
-In this post, I share how I designed a compact gas turbine for a 150 kg tactical UAV, including cycle analysis, key trade-offs, and lessons learned from Python-based optimization.]
+**Introduction:**  
+[This blog introduces the engine preliminary sizing for Unmanned Combat Aircraft.]
 
 ---
 
 ## Motivation
 
-- Why this topic is important for UAV/aerospace engineering.
+- Gas Turbines application in UAVs, Data Center and Power station
 - How it connects to your work (M.Tech thesis, current UAV design, CFD projects).
-- What problem you’re trying to solve (e.g., better SFC, higher cruise efficiency, weight reduction).
+- Performing an multi disciplinary.
 
 ---
 
