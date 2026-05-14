@@ -13,8 +13,8 @@ Curious person, open to learn.
     Unmanned Aerial Vehicle
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="MGT.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Micro Gas Turbine
+  <a href="GT.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+    Gas Turbine
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="SYSTEM.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
