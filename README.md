@@ -34,4 +34,4 @@ Curious person, open to learn.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohideen-ansar-aero)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:mohideenansara@gmail.com)
 
-#![Alt text for photo](/assets/1695480883539.jpeg)
+![Alt text for photo](/assets/1695480883539.jpeg)
