@@ -1,8 +1,3 @@
----
-title: "Unmanned Aerial Vehicles (UAV)"
-layout: default
----
-
 ### Transonic UAV Wing Optimization
 Adjoint-based drag reduction for M.Tech thesis using SU2/ADE. Improved cruise efficiency by 15%.
 
