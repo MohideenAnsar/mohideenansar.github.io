@@ -10,11 +10,11 @@ Purpose : To perform engine preliminary design using pycycle for an muldicon UCA
 <img width="957" height="407" alt="image" src="https://github.com/user-attachments/assets/ff824d7d-4bbc-4ce7-8ed3-6aaa564fc4a5" />
 #
 ---
-**Softwares**
+##Softwares
 [pycycle]|[openmdao]
 #
 
-**Introduction:**  
+##Introduction:  
 [This blog introduces the engine preliminary sizing for Unmanned Combat Aircraft.]
 
 ---
@@ -24,6 +24,12 @@ Purpose : To perform engine preliminary design using pycycle for an muldicon UCA
 - Gas Turbines application in UAVs, Data Center and Power station
 - How it connects to your work (M.Tech thesis, current UAV design, CFD projects).
 - Performing an multi disciplinary.
+
+## References
+
+- [1] Mattingly, J. D. *Elements of Gas Turbine Propulsion*.
+- [2] Hill, P., & Petersen, C. *Mechanics and Thermodynamics of Propulsion*.
+- [3] Your thesis, reports, or internal documents.
 <!--
 ---
 
