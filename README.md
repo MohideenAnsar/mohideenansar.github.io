@@ -8,7 +8,7 @@ Curious person, open to learn.
 
 ## 🚀 Portfolio
 <div style="text-align:center; margin: 20px 0;">
-  <a href="UAV.md" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+  <a href="UAV" style="f1ont-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Unmanned Aerial Vehicle
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,4 +34,4 @@ Curious person, open to learn.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohideen-ansar-aero)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:mohideenansara@gmail.com)
 
-![Alt text for photo](/assets/1695480883539.jpeg)
+#![Alt text for photo](/assets/1695480883539.jpeg)
