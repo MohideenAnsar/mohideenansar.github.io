@@ -31,7 +31,9 @@ This blog introduces the engine preliminary sizing for Unmanned Combat Aircraft.
 - [1] Mattingly, J. D. *Elements of Gas Turbine Propulsion*.
 - [2] Hill, P., & Petersen, C. *Mechanics and Thermodynamics of Propulsion*.
 - [3] Your thesis, reports, or internal documents.
+
 <!--
+---
 
 ## Background & Theory
 
@@ -129,4 +131,5 @@ Include plots or diagrams here if available:
 - [LinkedIn](https://linkedin.com/in/mohideen-ansar-aero)
 - Email: [mohideenansara@gmail.com](mailto:mohideenansara@gmail.com)
 - GitHub: [your-github-username]
+...
 -->
