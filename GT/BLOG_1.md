@@ -3,18 +3,19 @@ title: "GT Blog 1: Preliminary Engine Sizing"
 layout: default
 ---
 
-##Purpose : To perform engine preliminary design using pycycle for an muldicon UCAV. The UCAV mission profile is given below.
+## Purpose
+To perform engine preliminary design using pycycle for an muldicon UCAV. The UCAV mission profile is given below.
 
 
 <img width="957" height="407" alt="image" src="https://github.com/user-attachments/assets/ff824d7d-4bbc-4ce7-8ed3-6aaa564fc4a5" />
 
 ---
 
-##Softwares
+## Softwares
 [pycycle]|[openmdao]
 
-##Introduction:  
-[This blog introduces the engine preliminary sizing for Unmanned Combat Aircraft.]
+## Introduction:  
+This blog introduces the engine preliminary sizing for Unmanned Combat Aircraft.
 
 ---
 
