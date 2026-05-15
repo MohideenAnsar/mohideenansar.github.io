@@ -2,10 +2,17 @@
 title: "GT Blog 1: Preliminary Engine Sizing"
 layout: default
 ---
-
+---
 # 
+Purpose : To perform engine preliminary design using pycycle for an muldicon UCAV. The UCAV mission profile is given below.
+#
 
-![Cover image or schematic](/assets/blog-cover-image.jpeg)
+<img width="957" height="407" alt="image" src="https://github.com/user-attachments/assets/ff824d7d-4bbc-4ce7-8ed3-6aaa564fc4a5" />
+#
+---
+**Softwares**
+[pycycle]|[openmdao]
+#
 
 **Introduction:**  
 [This blog introduces the engine preliminary sizing for Unmanned Combat Aircraft.]
@@ -17,7 +24,7 @@ layout: default
 - Gas Turbines application in UAVs, Data Center and Power station
 - How it connects to your work (M.Tech thesis, current UAV design, CFD projects).
 - Performing an multi disciplinary.
-
+<!--
 ---
 
 ## Background & Theory
@@ -116,3 +123,4 @@ Include plots or diagrams here if available:
 - [LinkedIn](https://linkedin.com/in/mohideen-ansar-aero)
 - Email: [mohideenansara@gmail.com](mailto:mohideenansara@gmail.com)
 - GitHub: [your-github-username]
+-->
