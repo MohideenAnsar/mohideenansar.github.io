@@ -8,6 +8,10 @@ Curious person, open to learn.
 
 ## 🚀 Portfolio
 <div style="text-align:center; margin: 20px 0;">
+    <a href="./SYSTEM" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+    System Engineering
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="./UAV" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Unmanned Aerial Vehicle
   </a>
@@ -16,10 +20,6 @@ Curious person, open to learn.
     Gas Turbine
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="./SYSTEM" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    System Engineering
-  </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="./OTHER" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Engineering
   </a>
