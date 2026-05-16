@@ -21,7 +21,7 @@ Curious person, open to learn.
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="./OTHER" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Engineering
+    Product Design
   </a>
 </div>
 
