@@ -1,7 +1,5 @@
 # Engineer
 
-** Aerospace Engineer | UAE-based | Open to Opportunities **
-
 Aerospace engineer with over nine years in CAD, FEA, computational fluid dynamics, aerodynamic optimization, and UAV conceptual design using Raymer methods. Expertise in SU2 adjoint optimization, hypersonic intakes, and propulsion analysis.
 
 
