@@ -6,26 +6,26 @@ Aerospace engineer with over nine years in CAD, FEA, computational fluid dynamic
 
 
 ## 🚀 Portfolio
-<div style="text-align:center; margin: 20px 0;">
-    <a href="./SYSTEM" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+<div style="text-align:center; margin: 24px 0;">
+    <a href="./SYSTEM" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     System Engineering
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<div style="text-align:center; margin: 20px 0;">
-  <a href="./UAV" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+<div style="text-align:center; margin: 24px 0;">
+  <a href="./UAV" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Unmanned Aerial Vehicle
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<div style="text-align:center; margin: 20px 0;">
-  <a href="./GT_MAIN" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+<div style="text-align:center; margin: 24px 0;">
+  <a href="./GT_MAIN" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Gas Turbine
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<div style="text-align:center; margin: 20px 0;">
-  <a href="./OTHER" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+<div style="text-align:center; margin: 24px 0;">
+  <a href="./OTHER" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Product Design
   </a>
 </div>
