@@ -11,14 +11,20 @@ Aerospace engineer with over nine years in CAD, FEA, computational fluid dynamic
     System Engineering
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div style="text-align:center; margin: 20px 0;">
   <a href="./UAV" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Unmanned Aerial Vehicle
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div style="text-align:center; margin: 20px 0;">
   <a href="./GT_MAIN" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Gas Turbine
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div style="text-align:center; margin: 20px 0;">
   <a href="./OTHER" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Product Design
   </a>
