@@ -4,8 +4,10 @@ layout: default
 ---
 ## Description
 
-This blog is about a book written by Stephen R Convey titled " 7 habits of Effective People".
+This blog is about the book "7 habits of Effective People" written by Stephen R Covey.
+
 The planned blog is to explain about the authors description of the habits/principles and highlight my opinion/observation of the principle with real time implementation.
+
 All credits of the principles goes to the original Author of the book. My personal opinion/observation are exploratory of my personal notes.
 
 
