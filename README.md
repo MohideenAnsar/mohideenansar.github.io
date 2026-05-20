@@ -27,6 +27,11 @@ Aerospace engineer with over nine years in CAD, FEA, computational fluid dynamic
     Product Design
   </a>
 </div>
+<div style="text-align:center; margin: 24px 0;">
+  <a href="./BOOK" style="font-size:24px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+    Book Blog
+  </a>
+</div>
 
 ## 👨‍💻 About
 - **Location**: Abu Dhabi, UAE
