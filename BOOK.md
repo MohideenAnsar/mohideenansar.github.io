@@ -25,8 +25,15 @@ All credits of the principles goes to the original Author of the book. My person
 </div>
 
 <div style="text-align:center; margin: 20px 0;">
+  <a href="BOOKS/7HBySRC/4" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+    Book Blog 1.4: 7 Habits By Stephen R Convey: Habit 1 - Proactive
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<div style="text-align:center; margin: 20px 0;">
   <a href="BOOKS/7HBySRC/3" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Book Blog 1.3: 7 Habits By Stephen R Convey: Habit 1 - Proactive
+    Book Blog 1.4: 7 Habits By Stephen R Convey: Habit 2 - Begin with end in mind : Part 1
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
