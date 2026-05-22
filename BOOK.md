@@ -12,21 +12,21 @@ All credits of the principles goes to the original Author of the book. My person
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="BOOKS/7HBySRC/1" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Book Blog 1.1: 7 Habits By Stephen R Convey: Paradigm and Principles
+    Book Blog 1.1: 7 Habits By Stephen R Covey: Paradigm and Principles
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="BOOKS/7HBySRC/2" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Book Blog 1.2: 7 Habits By Stephen R Convey: Overview of 7 habits
+    Book Blog 1.2: 7 Habits By Stephen R Covey: Overview of 7 habits
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="BOOKS/7HBySRC/3" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Book Blog 1.3: 7 Habits By Stephen R Convey: Habit 1 - Proactive
+    Book Blog 1.3: 7 Habits By Stephen R Covey: Habit 1 - Proactive
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
