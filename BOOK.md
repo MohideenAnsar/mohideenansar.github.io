@@ -44,3 +44,10 @@ All credits of the principles goes to the original Author of the book. My person
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="BOOKS/7HBySRC/6" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+    Book Blog 1.5: 7 Habits By Stephen R Covey: Habit 3 - First thing first : Part 3
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
