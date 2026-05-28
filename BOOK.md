@@ -54,7 +54,14 @@ All credits of the principles goes to the original Author of the book. My person
 
 <div style="text-align:center; margin: 20px 0;">
   <a href="BOOKS/7HBySRC/7" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
-    Book Blog 1.7: 7 Habits By Stephen R Covey: Habit 3 - Emotional Deposit Bank Paradigm
+    Book Blog 1.7: 7 Habits By Stephen R Covey: Emotional Deposit Bank Paradigm
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="BOOKS/7HBySRC/8" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+    Book Blog 1.8: 7 Habits By Stephen R Covey: Habit 4 - Win -Win Paradigm
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
