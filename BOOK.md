@@ -67,7 +67,7 @@ All credits of the principles goes to the original Author of the book. My person
 </div>
 
 <div style="text-align:center; margin: 20px 0;">
-  <a href="BOOKS/7HBySRC/8" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+  <a href="BOOKS/7HBySRC/9" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
     Book Blog 1.9: 7 Habits By Stephen R Covey: Habit 5 - First seek to be understand then to be understood
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
