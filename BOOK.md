@@ -79,3 +79,10 @@ All credits of the principles goes to the original Author of the book. My person
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<div style="text-align:center; margin: 20px 0;">
+  <a href="BOOKS/7HBySRC/11" style="font-size:20px; font-weight:bold; text-decoration:none; padding:10px 20px;">
+    Book Blog 1.11: 7 Habits By Stephen R Covey: Habit 7 - Sharpen the saw
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
